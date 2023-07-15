@@ -1,0 +1,18 @@
+Algoritmo da hora de acordar.
+
+1 - Abrir os olhos;
+2 - prepara para verificar o horário que ocorreu o despertamento;
+3 - Olhar o relógio da parede;
+4 - Se o horário for < 6:
+4.1 - voltar a dormir;
+5 - Se o horário for >= 6h:
+	5.1 - Sentar na cama;
+5.2 - Sentar na cama;
+	5.3 - Fazer uma oração agradecendo o dom da vida;
+	5.4 - Dobrar o lençol;
+	5.5 - Pôr os pés no chão;
+	5.6 - Levantar e se dirigir ao banheiro;
+	5.7 - Tomar banho;
+	5.8 - Vestir-se
+	5.9 - Calçar o sapato;
+	6 - Ir trabalhar.
